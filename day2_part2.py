@@ -1,3 +1,4 @@
+#this code is not functional at all, i need to solve some issues, when i got more time, i correct all ^^
 list1 = ['abcde', 'fghij', 'klmno', 'pqrst', 'fguij', 'axcye', 'wvxyz', 'pqrst']
 
 '''
